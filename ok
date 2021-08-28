@@ -1,5 +1,5 @@
 #!/bin/bash
-jekyll serve
+jekyll b
 git add .
 git commit -m "blog update"
 git push
