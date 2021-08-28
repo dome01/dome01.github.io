@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Questions/Réponses Édition française"
+date:   2021-07-26 11:01:00 +0200
+categories: blog
+---
+**Parle-moi de toi/ Présentez-vous**
+
+Je m'appelle Vu Tuan Thanh, vous pouvez m'appeler Thanh pour faire court. J'ai 20 ans et je suis actuellement en 2ème année à l'INSA Centre Val de Loire, Département Sécurité Technologie Informatique. J'ai un grand intérêt pour l'informatique et cybersécurité en particulière.
+
+**Quelle est votre histoire ?**
+
+Depuis l'âge de 10 ans, j'ai été exposé aux connaissances en informatique à travers les anciens documents de mon père. Il avait l'habitude de ramener à la maison un vieux PC cassé pour essayer de le réparer. À l'époque, j'ai eu la possibilité de jouer avec le matériel et le logiciel. J'ai appris les composants de base des ordinateurs et comment installer les systèmes d'exploitation. Je me suis beaucoup intéressé à ce domaine et j'ai décidé de me concentrer sur ce sujet quand j'étais au lycée. C'est à ce moment-là que j'ai appris le codage compétitif. J'ai beaucoup appris sur l'algorithme et la structure des données et sur le fonctionnement des compilateurs. À la fin de mes études secondaires, je me suis retrouvé curieux de la cybersécurité et j'ai voulu étudier à l'étranger. L'INSA Centre Val de Loire a répondu à toutes mes exigences. Après un an et demi, j'avais envie de nouvelles aventures, c'est alors que j'ai découvert l'alternance et décidé de postuler.
+
+**À propos de mon programme alternance.**
+
+**Que faites-vous dans une situation de conflit d’équipe ?**
+
+**Motivation**
+
+**Quels sont vos défauts ? Quelles sont vos qualités ?**
+
+- **Force**
+    - J'ai un sens élevé des responsabilités, je suis toujours proactif dans le travail grâce à mon expérience dans les compétitions de codage en équipe et les projets de groupe scolaire.
+    - Je prends à la fois mon travail et mes études très au sérieux, comme en témoigne mon score qui augmente chaque semestre.
+    - Je suis très axé sur les objectifs. J'ai planifié et documenté tout ce que j'ai fait jusqu'à cet entretien pour me donner les meilleures chances de succès.
+    - J'ai une très bonne maîtrise de l'anglais. J'ai obtenu une note de 8,0/9 au test d'anglais académique IELTS, qui équivaut à C1.
+    - Une autre de mes forces est de savoir trouver des informations documentaires et présenter mes découvertes de manière précise et concise.
+- **La faiblesse:**
+Je me considère comme une personne qui peut facilement sympathiser avec les autres. Cela peut me permettre de voir plus facilement les problèmes sous plusieurs angles, mais il m'est parfois difficile de prendre des décisions décisives.
+
+**Quelle est votre expérience du travail de groupe ?**
+
+J'ai fait beaucoup de projet de groupe à l'école et je me suis procuré une méthode de gestion efficace que j'utilise depuis mes jours de codage compétitif: la tactique on-off. C'est un glissement constant entre la pensée individuelle et la discussion collective. Initialement, l'équipe avait besoin d'avoir une discussion rapide sur les problèmes à résoudre, d'échanger une direction de solution commune et de répartir le travail entre chaque personne. Ensuite, chacun aura son propre temps pour travailler sur ses tâches, après une période de temps (au moins une heure) l'équipe discutera de la stratégie pour voir ce que chaque personne a essayé et ce qui n'a pas fonctionné dans la solution originale.
+Ces deux étapes seront répétées jusqu'à ce que le travail soit terminé. L'idée de cette tactique est que les rencontres et les échanges n'ont de sens que lorsque chacun travaille à plein régime depuis assez longtemps. Cela réduira le nombre de réunions inutiles lorsque tout le monde n'a pas une idée précise des problèmes.
+
+**Avez-vous des questions ?**
+
+**Où vous voyez-vous dans 5 ans**
+
+Je me retrouve intéressé par l'avenir où j'aurai 3 ans d'expérience en cyber-sécurité. À ce stade, même si je suis plus orienté vers le côté technique, je serais plus qu'heureux d'en savoir plus sur la gestion de projets de cybersécurité qui m'ouvrira encore plus de défis et d'opportunités.
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

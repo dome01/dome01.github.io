@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Why choose you?"
+date:   2021-07-26 09:13:00 +0200
+categories: blog
+---
+*Một bài đánh giả tổng quan và chi tiết những điểm mạnh và điểm yếu của mình.*
+
+**Điểm mạnh**
+
+**Tình thần trách nhiệm cao, luôn là người chủ động trong công việc.**
+
+Những dự án trên trường như Solidwork, các thí nghiệm kĩ thuật
+
+Những cuộc thi code nhóm từ Việt Nam đến Pháp
+
+Trong những cuộc thì này thì mình rút ra được kinh nghiệm về chiến thuật on off khi giao tiếp. Đó là việc thay đổi liên tục giữa suy nghĩ cá nhân và bàn luận tập thể. Ban đầu, đội cần có một buổi bàn nhanh về những vấn đề đang có, trao đổi những hướng giải quyết chung chung và chia công việc cho mỗi người. Sau đó mọi người sẽ có thời gian riêng để thực hiện tác vụ của mình, sau một khoảng thời gian (ít nhất là một tiếng) thì sẽ họp bàn lại chiến thuật xem mỗi người đã thử những gì và có gì sai trong quá trình định hướng giải pháp ban đầu hay không. Hai bước này sẽ được lặp lại cho đến khi công việc được hoàn thành. Ý tưởng của triến thuật này là những cuộc họp và trao đổi chỉ ý nghĩa khi tất cả mọi người đều có đã làm việc hết công suất trong khoảng thời gian đủ lâu. Việc này sẽ giảm tải số cuộc họp không cần thiết khi mọi người đều chưa có ý niệm cụ thể về những vấn đề đang gặp phải
+
+
+**Thông thạo tiếng Anh lvl7**
+
+IELTS 8.0/9 tương đương C1
+
+Không chỉ giao tiếp, trình bày mà cả tiếng Anh chuyên ngành, mình cũng năm rất chắc. Nó mở ra một thế giới tài liệu vô cùng lớn mà mình có thể nghiên cứu, học tập và áp dụng thực tiễn một cách nhanh chóng.
+
+**Nghiên cứu, tổng hợp và trình bày**
+
+Một thế mạnh của mình là biết cách tìm những thông tin tài liệu và trình bày những khám phá của mình một cách thuyết phục.
+
+Nhiều bài thuyết trình về văn hóa và kinh tế trên trường được giáo viên và bạn bè đánh giá cao.
+
+**Điểm yếu:**
+
+**Về tính cách** 
+
+Mình tự nhận thấy mình là một người dễ cảm thông với người khác. Điều này có thể giúp cho mình dễ nhìn vấn đề dưới nhiều góc độ của nhiều người nhưng đôi lúc lại khiến cho mình khó đưa ra những quyết định một cách quyết đoán.
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
