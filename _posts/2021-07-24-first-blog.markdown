@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What the am I supposed to do?"
+title:  "What am I supposed to do?"
 date:   2021-07-24 22:09:14 +0200
 categories: blog
 ---
