@@ -1,0 +1,5 @@
+#!/bin/bash
+jekyll b
+git add .
+git commit -m "blog update"
+git push
