@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Do get a hold of your Profile and do NOT afraid to ask for help!"
+date:   2021-08-10 21:00:00 +0200
+categories: blog
+---
+I cannot stress how much my CV have developed over the months. Considering its current state, you can probably tell how disgusted I feel looking back. I was stumbling around like an idiot. Thanks to that one lady from a random company who asked for the .docx form of my previously Canva-made CV, that I forced myself to convert it into Word. My god, look at the errors! I was trembling, all of the opportunities that I missed were caused (in large) by these almost-unforgivable mistakes. I had to bite the bullet, humbly fixed them, then move on.
+
+Another relevant point that I want to make it how useful it was to ask for people for help. At the beginning, I believe that if I followed my plan, I worked on it diligently, I can do it proudly on my own. Maybe I was to arrogant? I don't particularly feel like it. I might have afraid of other people being morally superior to me as a consequence of my demand for help. I was afraid to be looked down on. It was probably my ego at play (which is slightly different from arrogance I suppose). My experience was exactly the opposite as people was more than happy to help me out (and if you were one of them, THANKYOU sincerely). There were elements of reciprocity there but not how I expected it to play out at all. I cannot back down now so I took every chance that I have, anyone who might know something I don't, I ask them. It hurts to see how I had so many blind spots, anymore then I would be considered blind. But things are looking up as a result and I am content with my decisions.
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
